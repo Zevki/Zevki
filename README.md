@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Thang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src"https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zevki&label=Profile%20views&color=0e75b6&style=flat" alt="zevki" /> </p>
 
