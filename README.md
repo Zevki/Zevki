@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quang Thang</h1>
 <h3 align="center">A passionate frontend developer from Vietnam</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/search/programador-gifs">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/search/programador-gifs](https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zevki&label=Profile%20views&color=0e75b6&style=flat" alt="zevki" /> </p>
 
